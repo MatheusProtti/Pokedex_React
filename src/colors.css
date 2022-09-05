@@ -1,0 +1,76 @@
+.bug {
+    background: #aedf78;
+    /* A6B91A */
+  }
+  
+  .water {
+    background: #43ccff;
+  }
+  
+  .grass {
+    background: #7AC74C;
+  }
+  
+  .fire {
+    background: #e95c4d;
+  }
+  
+  .normal {
+    background: #A8A77A;
+  }
+  
+  .poison {
+    background: #611380;
+  }
+  
+  .electric {
+    background: #F7D02C;
+  }
+  .ground {
+    background: #bfac21;
+    /* E2BF65 */
+  }
+  
+  .fairy {
+    background: #f87ea7;
+  }
+  
+  .fighting {
+    background: #C22E28;
+  }
+  .psychic {
+    background: #F95587;
+  }
+  
+  .ghost {
+    background: #8e55a4;
+    /* 735797 */
+  }
+  .rock {
+    background: #776a3e;
+    /* B6A136 */
+  }
+  .ice {
+    background: #66d1e5;
+  }
+  .flying {
+    background: #5eb9b2;
+  }
+  .dark {
+    background: #564438;
+  }
+  
+  .dragon {
+    background: #6F35FC;
+  }
+  
+  .steel {
+    background: #7b8e8a;
+  }
+  .unknown {
+    background: #454545;
+  }
+  
+  .shadow {
+    background: #4f4f4f;
+  }
